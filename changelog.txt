@@ -1,0 +1,21 @@
+*** Product likes & comments Changelog ***
+
+2020-07-13 - version 1.0.0
+* Initial release
+
+2022-04-10 - version 1.0.1
+* Updated new like icon
+* Fix some security issue & custmize code
+* Tested with latest version
+
+2023-5-25 - version 2.0.0
+* Added setting for lots of small things needed on website.
+* Enable/disabled to show liked all product list In My Account page 
+* Enable Comments in product page
+* added option to show like option On Single Product or shop Pages
+* Change Add to Cart button text
+* Change Checkout Order button text
+* Remove add to cart feature from store
+* Hide product price for not login user across your store
+* Woocommerce add to cart button redirect to checkout.
+* Tested with latest version
